@@ -1,0 +1,10 @@
+dist/
+venv/
+logs/app.log
+app/app/__pycache__
+app/app/models/__pycache__
+app/app/core/__pycache__
+app/app/api/__pycache__
+app/app/api/endpoints/__pycache__
+deploy.sh
+.vscode/
